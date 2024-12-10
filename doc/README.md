@@ -77,6 +77,9 @@ library-management-system/
 
 Usage
 Public Access
+Public user information:
+Username: m.berry@fuse.net
+Password: Benny
 Visit the homepage to browse available books.
 No sign-up is required for public browsing.
 User Access
@@ -99,6 +102,8 @@ Add book borrowing functionality.
 Implement book return dates and overdue fines.
 Enhance security with stronger authentication mechanisms.
 Add a search and filter feature for books.
+
+Youtube Link:
 
 
 Contact
