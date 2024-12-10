@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "year": 1925,
+        "genre": "Classic",
+        "isbn": "9780743273565",
+        "status": "Available"
+    },
+    {
+        "id": 2,
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "year": 1960,
+        "genre": "Fiction",
+        "isbn": "9780061120084",
+        "status": "Available"
+    },
+    {
+        "id": 3,
+        "title": "1984",
+        "author": "George Orwell",
+        "year": 1949,
+        "genre": "Dystopian",
+        "isbn": "9780451524935",
+        "status": "Checked Out"
+    },
+    {
+        "id": 4,
+        "title": "Moby Dick",
+        "author": "Herman Melville",
+        "year": 1851,
+        "genre": "Adventure",
+        "isbn": "9780142437247",
+        "status": "Available"
+    },
+    {
+        "id": 5,
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "year": 1813,
+        "genre": "Romance",
+        "isbn": "9780141040349",
+        "status": "Checked Out"
+    },
+    {
+        "id": 6,
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "year": 1951,
+        "genre": "Literary Fiction",
+        "isbn": "9780316769488",
+        "status": "Available"
+    }
+]
